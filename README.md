@@ -1,10 +1,8 @@
 - Hi, I’m @cshsu
-- A PhD-level graduate researcher with 5+ years of experience in nanoelectronic device modeling for emerging technologies
+- A PhD with 5+ years of experience in nanoelectronic device modeling for emerging technologies
 - Passionate about developing device models, learning new stuff, and collaborating with interdisciplinary teams to realize emerging technologies as an individual contributor and a team player
 - Interesting stuff I'm learning:
   - Python
-  - C++
-  - TCAD
   - badminton
   - Japanese
 - How to reach me ...  
