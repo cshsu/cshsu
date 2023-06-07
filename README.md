@@ -6,7 +6,7 @@
   - badminton
   - Japanese
 - How to reach me ...  
-  - Email: chiasheng@gatech.edu  
+  - Email: chiasheng@gapp.nthu.edu.tw 
   - [LinkedeIn](https://www.linkedin.com/in/chiasheng/)  
   - [GitHub Pages](https://cshsu.github.io/)  
 
